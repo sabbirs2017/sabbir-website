@@ -1,0 +1,112 @@
+body{
+    font-family: "Oswald", sans-serif;
+   background-image: url("vector image.jpg"); 
+}
+h1{
+    font-size: 40px;
+}
+.name{
+    color: chartreuse;
+}
+.division{
+    width:45%;
+    float: left;
+    padding-left: 2%;
+    padding-top: 50px;
+    margin-left: 2%;
+    }
+
+
+.division img{
+    width: 60%;
+    height: 60%;
+    padding-left: 30%;
+    padding-top: 14%;
+
+}
+
+.link{
+    text-decoration:none;
+    border-radius: 5px;
+    background-image:linear-gradient(60deg , lightsalmon , tomato  ) ;
+    border: 5px;
+    padding: 3px 5px;
+    color: aliceblue;
+}
+
+
+
+/* sob section e alada alada image babohar korte chaile
+.background{
+    background-image: url("vector image.jpg");
+}
+background image amnei kaj korbe na karon division tag e float left use kora ace. jar karone amar picture ta tar asol jayga thakay sore bam side e gece. tai main jayga zero hoye gece. tai jodi float tag er sathe backgrond img babohar korte hoy tahole je section er vitore oigula ace oi section er hight width fixed koray ditay hobe  
+
+section{
+    height: 500px;
+    }
+*/
+
+   
+
+
+/*jkono class er under e kono picture thakle oi picture er css korar jonne class name er por img lakhte hobe. er meaning holo oi class er under e joto img ace oigulake bujaite cacci*/
+.division-image{
+    width: 50%;
+    height: 50%;
+    float: left;
+}
+.division-image img{
+    width: 100%;
+    height: 100%;
+}
+  
+
+.division-text{
+    padding-left: 2%;
+    padding-top: 500px;
+    padding-bottom: 12%;
+    margin-left: 2%;
+    
+    }
+
+
+
+
+h5{
+    color: greenyellow ;
+}
+  
+#noob-div{
+    
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg ,lightsalmon,tomato);
+    border-image-slice: 1;
+}
+
+#half-div{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg ,rgb(157, 203, 140),rgb(71, 255, 89));
+    border-image-slice: 1;
+}
+
+.division-shadow{
+    box-shadow: 10px 10px 40px gray;
+    width:45%;
+    float: left;
+    padding-left: 2%;
+    padding-top: 5px;
+    margin-left: 2%;
+    margin-bottom: 100px;
+    
+}
+
+footer{
+    text-align: center;
+    color: gray;
+    size: 5px;
+}
+
+
+
+ 
