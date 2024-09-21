@@ -82,6 +82,7 @@ h5{
     border-left: 7px solid;
     border-image: linear-gradient(180deg ,lightsalmon,tomato);
     border-image-slice: 1;
+    /*bootstrap diye korle easily kora jay tokhon tag ta hobe <div class="border-start border-primary"></div>. ekhane 'border primary' diye border er colour define kora hoy.*/
 }
 
 #half-div{
